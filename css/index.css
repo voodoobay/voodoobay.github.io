@@ -2378,6 +2378,9 @@ figure.highlight pre .javascript .function {
 #recent-posts > .recent-post-item >.recent-post-info > .article-meta-wrap .article-meta-link {
   margin: 0 4px;
 }
+#recent-posts > .recent-post-item >.recent-post-info > .article-meta-wrap time {
+  display: none;
+}
 #recent-posts > .recent-post-item >.recent-post-info > .article-meta-wrap a {
   color: #858585;
 }
@@ -3463,6 +3466,9 @@ h1.page-title + .tag-cloud-list {
   color: #49b1f5;
   text-decoration: underline;
 }
+#post-info #post-meta time {
+  display: none;
+}
 #nav {
   position: absolute;
   top: 0;
@@ -4089,6 +4095,21 @@ h1.page-title + .tag-cloud-list {
   #rightside #hide-aside-btn {
     display: none;
   }
+}
+#rightside #go-up .scroll-percent {
+  display: none;
+}
+#rightside #go-up.show-percent .scroll-percent {
+  display: block;
+}
+#rightside #go-up.show-percent .scroll-percent + i {
+  display: none;
+}
+#rightside #go-up:hover .scroll-percent {
+  display: none;
+}
+#rightside #go-up:hover .scroll-percent + i {
+  display: block;
 }
 #sidebar #menu-mask {
   position: fixed;
