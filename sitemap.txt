@@ -1,3 +1,5 @@
+http://example.com/movies/index.html
+http://example.com/music/index.html
 http://example.com/lists/index.html
 http://example.com/2023/01/27/hexo/
 http://example.com/tags/index.html
