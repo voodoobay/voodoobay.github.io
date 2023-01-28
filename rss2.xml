@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>巫毒湾</title>
+    <link>http://example.com/</link>
+    
+    <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description>早起的虫儿被鸟吃</description>
+    <pubDate>Fri, 27 Jan 2023 11:28:14 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>建站</title>
+      <link>http://example.com/2023/01/27/hexo/</link>
+      <guid>http://example.com/2023/01/27/hexo/</guid>
+      <pubDate>Fri, 27 Jan 2023 10:55:24 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;本文用于测试&lt;/p&gt;
+&lt;h2 id=&quot;9999&quot;&gt;&lt;a href=&quot;#9999&quot; class=&quot;headerlink&quot; title=&quot;9999&quot;&gt;&lt;/a&gt;9999&lt;/h2&gt;&lt;h3 id=&quot;1111&quot;&gt;&lt;a href=&quot;#1111&quot; class=&quot;headerlink&quot; ti</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<p>本文用于测试</p><h2 id="9999"><a href="#9999" class="headerlink" title="9999"></a>9999</h2><h3 id="1111"><a href="#1111" class="headerlink" title="1111"></a>1111</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$  <span class="string">&quot;....&quot;</span></span><br></pre></td></tr></table></figure><p>这个颜色</p><p style="color: #FF0000;"></p>]]></content:encoded>
+      
+      
+      
+      
+      <comments>http://example.com/2023/01/27/hexo/#disqus_thread</comments>
+      
+    </item>
+    
+  </channel>
+</rss>
