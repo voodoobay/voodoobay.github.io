@@ -3,12 +3,12 @@
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>巫毒湾</title>
+    <title>voodoobay</title>
     <link>http://example.com/</link>
     
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
-    <description>早起的虫儿被鸟吃</description>
+    <description></description>
     <pubDate>Sat, 28 Jan 2023 07:03:22 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
