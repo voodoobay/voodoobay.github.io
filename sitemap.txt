@@ -1,5 +1,5 @@
-http://example.com/2023/01/29/init/
 http://example.com/2023/01/28/hexo/
+http://example.com/2023/01/29/init/
 http://example.com/movies/index.html
 http://example.com/music/index.html
 http://example.com/lists/index.html
