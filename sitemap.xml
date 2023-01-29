@@ -92,13 +92,6 @@
 
   
   <url>
-    <loc>http://voodoobay.top/tags/%E9%9F%B3%E4%B9%90/</loc>
-    <lastmod>2023-01-29</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>http://voodoobay.top/tags/%E6%88%91/</loc>
     <lastmod>2023-01-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -114,6 +107,13 @@
   
   <url>
     <loc>http://voodoobay.top/tags/%E5%B7%A5%E5%85%B7%E7%B1%BB/</loc>
+    <lastmod>2023-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>http://voodoobay.top/tags/music/</loc>
     <lastmod>2023-01-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
