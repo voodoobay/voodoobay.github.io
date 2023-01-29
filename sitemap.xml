@@ -11,16 +11,7 @@
   </url>
   
   <url>
-    <loc>http://voodoobay.top/movies/index.html</loc>
-    
-    <lastmod>2023-01-29</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://voodoobay.top/music/index.html</loc>
+    <loc>http://voodoobay.top/2023/01/28/hexo/</loc>
     
     <lastmod>2023-01-29</lastmod>
     
@@ -38,7 +29,16 @@
   </url>
   
   <url>
-    <loc>http://voodoobay.top/2023/01/28/hexo/</loc>
+    <loc>http://voodoobay.top/movies/index.html</loc>
+    
+    <lastmod>2023-01-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://voodoobay.top/music/index.html</loc>
     
     <lastmod>2023-01-29</lastmod>
     
