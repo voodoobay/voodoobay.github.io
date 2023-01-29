@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://voodoobay.github.io/2023/01/29/init/</loc>
+    <loc>http://voodoobay.top/2023/01/29/init/</loc>
     
     <lastmod>2023-01-29</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://voodoobay.github.io/2023/01/28/hexo/</loc>
+    <loc>http://voodoobay.top/2023/01/28/hexo/</loc>
     
     <lastmod>2023-01-29</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://voodoobay.github.io/movies/index.html</loc>
+    <loc>http://voodoobay.top/movies/index.html</loc>
     
     <lastmod>2023-01-28</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://voodoobay.github.io/music/index.html</loc>
+    <loc>http://voodoobay.top/music/index.html</loc>
     
     <lastmod>2023-01-28</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://voodoobay.github.io/lists/index.html</loc>
+    <loc>http://voodoobay.top/lists/index.html</loc>
     
     <lastmod>2023-01-28</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>http://voodoobay.github.io/tags/index.html</loc>
+    <loc>http://voodoobay.top/tags/index.html</loc>
     
     <lastmod>2023-01-27</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>http://voodoobay.github.io/categories/index.html</loc>
+    <loc>http://voodoobay.top/categories/index.html</loc>
     
     <lastmod>2023-01-27</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>http://voodoobay.github.io/about/index.html</loc>
+    <loc>http://voodoobay.top/about/index.html</loc>
     
     <lastmod>2023-01-27</lastmod>
     
@@ -75,7 +75,7 @@
   
 
   <url>
-    <loc>http://voodoobay.github.io/</loc>
+    <loc>http://voodoobay.top/</loc>
     <lastmod>2023-01-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -83,21 +83,21 @@
 
   
   <url>
-    <loc>http://voodoobay.github.io/tags/%E6%88%91/</loc>
+    <loc>http://voodoobay.top/tags/%E6%88%91/</loc>
     <lastmod>2023-01-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://voodoobay.github.io/tags/%E5%8E%86%E7%A8%8B/</loc>
+    <loc>http://voodoobay.top/tags/%E5%8E%86%E7%A8%8B/</loc>
     <lastmod>2023-01-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>http://voodoobay.github.io/tags/%E5%B7%A5%E5%85%B7%E7%B1%BB/</loc>
+    <loc>http://voodoobay.top/tags/%E5%B7%A5%E5%85%B7%E7%B1%BB/</loc>
     <lastmod>2023-01-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -106,7 +106,7 @@
 
   
   <url>
-    <loc>http://voodoobay.github.io/categories/hexo%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/</loc>
+    <loc>http://voodoobay.top/categories/hexo%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/</loc>
     <lastmod>2023-01-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
