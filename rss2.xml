@@ -9,8 +9,27 @@
     <atom:link href="http://voodoobay.top/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>早起的虫儿被鸟吃</description>
-    <pubDate>Sun, 29 Jan 2023 08:24:42 GMT</pubDate>
+    <pubDate>Sun, 29 Jan 2023 08:29:46 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>诲人不倦</title>
+      <link>http://voodoobay.top/2023/01/29/1/</link>
+      <guid>http://voodoobay.top/2023/01/29/1/</guid>
+      <pubDate>Sun, 29 Jan 2023 08:26:30 GMT</pubDate>
+      
+      
+      
+      
+      <category domain="http://voodoobay.top/categories/%E5%93%81%E8%8C%97%E5%B9%B4%E5%B0%91/">品茗年少</category>
+      
+      
+      <category domain="http://voodoobay.top/tags/%E9%9F%B3%E4%B9%90/">音乐</category>
+      
+      
+      <comments>http://voodoobay.top/2023/01/29/1/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>hexo init问题</title>

@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://voodoobay.top/2023/01/29/1/</loc>
+    
+    <lastmod>2023-01-29</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://voodoobay.top/2023/01/29/init/</loc>
     
     <lastmod>2023-01-29</lastmod>
@@ -83,6 +92,13 @@
 
   
   <url>
+    <loc>http://voodoobay.top/tags/%E9%9F%B3%E4%B9%90/</loc>
+    <lastmod>2023-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>http://voodoobay.top/tags/%E6%88%91/</loc>
     <lastmod>2023-01-29</lastmod>
     <changefreq>weekly</changefreq>
@@ -104,6 +120,13 @@
   </url>
   
 
+  
+  <url>
+    <loc>http://voodoobay.top/categories/%E5%93%81%E8%8C%97%E5%B9%B4%E5%B0%91/</loc>
+    <lastmod>2023-01-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
   <url>
     <loc>http://voodoobay.top/categories/hexo%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/</loc>
