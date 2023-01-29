@@ -9,8 +9,35 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>早起的虫儿被鸟吃</description>
-    <pubDate>Sun, 29 Jan 2023 07:01:29 GMT</pubDate>
+    <pubDate>Sun, 29 Jan 2023 07:29:44 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>hexo init问题</title>
+      <link>http://example.com/2023/01/29/init/</link>
+      <guid>http://example.com/2023/01/29/init/</guid>
+      <pubDate>Sun, 29 Jan 2023 07:06:45 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h2 id=&quot;问题示例&quot;&gt;&lt;a href=&quot;#问题示例&quot; class=&quot;headerlink&quot; title=&quot;问题示例&quot;&gt;&lt;/a&gt;问题示例&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;/.com//111.png&quot;&gt;&lt;/p&gt;
+&lt;h2 id=&quot;解决办法&quot;&gt;&lt;a href=&quot;#解决办法&quot; c</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h2 id="问题示例"><a href="#问题示例" class="headerlink" title="问题示例"></a>问题示例</h2><p><img src="/.com//111.png"></p><h2 id="解决办法"><a href="#解决办法" class="headerlink" title="解决办法"></a>解决办法</h2><p><img src="/.com//222.png"></p>]]></content:encoded>
+      
+      
+      <category domain="http://example.com/categories/hexo%E9%97%AE%E9%A2%98%E8%A7%A3%E5%86%B3/">hexo问题解决</category>
+      
+      
+      <category domain="http://example.com/tags/%E5%B7%A5%E5%85%B7%E7%B1%BB/">工具类</category>
+      
+      
+      <comments>http://example.com/2023/01/29/init/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>建站</title>
