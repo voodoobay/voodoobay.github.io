@@ -6,3 +6,5 @@ http://example.com/tags/index.html
 http://example.com/categories/index.html
 http://example.com/about/index.html
 http://example.com/
+http://example.com/tags/%E6%88%91/
+http://example.com/tags/%E5%8E%86%E7%A8%8B/
