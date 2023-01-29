@@ -9,7 +9,7 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>早起的虫儿被鸟吃</description>
-    <pubDate>Sat, 28 Jan 2023 07:03:22 GMT</pubDate>
+    <pubDate>Sun, 29 Jan 2023 06:37:10 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
@@ -20,15 +20,16 @@
       
         
         
-      <description>&lt;p&gt;本文用于测试&lt;/p&gt;
-&lt;h2 id=&quot;9999&quot;&gt;&lt;a href=&quot;#9999&quot; class=&quot;headerlink&quot; title=&quot;9999&quot;&gt;&lt;/a&gt;9999&lt;/h2&gt;&lt;h3 id=&quot;1111&quot;&gt;&lt;a href=&quot;#1111&quot; class=&quot;headerlink&quot; ti</description>
+      <description>&lt;p&gt;关于建站，我之前也是没有想这么多，知道看见了别人的个人博客，便开始动起手来。&lt;br&gt;###历程&lt;br&gt;整个过程可以说是非常头疼的，基于在之前github的基础，搭建hexo还是费了不少力气，不停的在站点和主题配置文件之间来回查找更是让我怀念起了以前玩游戏晕3D的感觉，不过一</description>
         
       
       
       
-      <content:encoded><![CDATA[<p>本文用于测试</p><h2 id="9999"><a href="#9999" class="headerlink" title="9999"></a>9999</h2><h3 id="1111"><a href="#1111" class="headerlink" title="1111"></a>1111</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$  <span class="string">&quot;....&quot;</span></span><br></pre></td></tr></table></figure><p>这个颜色</p><p style="color: #FF0000;"></p>]]></content:encoded>
+      <content:encoded><![CDATA[<p>关于建站，我之前也是没有想这么多，知道看见了别人的个人博客，便开始动起手来。<br>###历程<br>整个过程可以说是非常头疼的，基于在之前github的基础，搭建hexo还是费了不少力气，不停的在站点和主题配置文件之间来回查找更是让我怀念起了以前玩游戏晕3D的感觉，不过一步步的心思缜密的排查空格和行列，一点点在谷歌上搜索的痕迹才造就了这个小站</p>]]></content:encoded>
       
       
+      
+      <category domain="http://example.com/tags/about/">about</category>
       
       
       <comments>http://example.com/2023/01/27/hexo/#disqus_thread</comments>
