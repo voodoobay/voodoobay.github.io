@@ -9,28 +9,28 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>早起的虫儿被鸟吃</description>
-    <pubDate>Sun, 29 Jan 2023 06:39:26 GMT</pubDate>
+    <pubDate>Sun, 29 Jan 2023 06:43:31 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
       <title>建站</title>
-      <link>http://example.com/2023/01/27/hexo/</link>
-      <guid>http://example.com/2023/01/27/hexo/</guid>
-      <pubDate>Fri, 27 Jan 2023 10:55:24 GMT</pubDate>
+      <link>http://example.com/2023/01/28/hexo/</link>
+      <guid>http://example.com/2023/01/28/hexo/</guid>
+      <pubDate>Sat, 28 Jan 2023 05:55:24 GMT</pubDate>
       
         
         
-      <description>&lt;h2 id=&quot;关于建站，我之前也是没有想这么多，知道看见了别人的个人博客，便开始动起手来。&quot;&gt;&lt;a href=&quot;#关于建站，我之前也是没有想这么多，知道看见了别人的个人博客，便开始动起手来。&quot; class=&quot;headerlink&quot; title=&quot;关于建站，我之前也是没有想这么多</description>
+      <description>&lt;h1 id=&quot;历程&quot;&gt;&lt;a href=&quot;#历程&quot; class=&quot;headerlink&quot; title=&quot;历程&quot;&gt;&lt;/a&gt;历程&lt;/h1&gt;&lt;p&gt;关于建站，我之前也是没有想这么多，知道看见了别人的个人博客，便开始动起手来。&lt;br&gt;整个过程可以说是非常头疼的，基于在之前github的基础</description>
         
       
       
       
-      <content:encoded><![CDATA[<h2 id="关于建站，我之前也是没有想这么多，知道看见了别人的个人博客，便开始动起手来。"><a href="#关于建站，我之前也是没有想这么多，知道看见了别人的个人博客，便开始动起手来。" class="headerlink" title="关于建站，我之前也是没有想这么多，知道看见了别人的个人博客，便开始动起手来。"></a>关于建站，我之前也是没有想这么多，知道看见了别人的个人博客，便开始动起手来。</h2><h3 id="历程"><a href="#历程" class="headerlink" title="历程"></a>历程</h3><p>整个过程可以说是非常头疼的，基于在之前github的基础，搭建hexo还是费了不少力气，不停的在站点和主题配置文件之间来回查找更是让我怀念起了以前玩游戏晕3D的感觉，不过一步步的心思缜密的排查空格和行列，一点点在谷歌上搜索的痕迹才造就了这个小站</p>]]></content:encoded>
+      <content:encoded><![CDATA[<h1 id="历程"><a href="#历程" class="headerlink" title="历程"></a>历程</h1><p>关于建站，我之前也是没有想这么多，知道看见了别人的个人博客，便开始动起手来。<br>整个过程可以说是非常头疼的，基于在之前github的基础，搭建hexo还是费了不少力气，不停的在站点和主题配置文件之间来回查找更是让我怀念起了以前玩游戏晕3D的感觉，不过一步步的心思缜密的排查空格和行列，一点点在谷歌上搜索的痕迹才造就了这个小站。<br>也希望你们把心事和烦恼留在这个blog，我会看见的。</p>]]></content:encoded>
       
       
       
       
-      <comments>http://example.com/2023/01/27/hexo/#disqus_thread</comments>
+      <comments>http://example.com/2023/01/28/hexo/#disqus_thread</comments>
       
     </item>
     
